@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: cornflowerblue;
+
+}
+
+
+nav li a {
+    text-decoration: none;
+    justify-content: space-around;
+
+}
+
+nav li {
+    list-style: none;
+}
